@@ -1,0 +1,48 @@
+{
+  "name": "magnificent_list",
+  "version": "0.1.0",
+  "description": "my test task for the Carprice",
+  "scripts": {
+    "start": "react-scripts start",
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muturgan/magnificent_list.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Andrey Sakharov",
+    "email": "caxap_8787@mail.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muturgan/magnificent_list/issues"
+  },
+  "homepage": "https://magnificent-list.cf",
+  "dependencies": {
+    "@types/node": "^10.14.12",
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
+    "@types/react-redux": "^7.1.1",
+    "@types/react-router-dom": "^4.3.4",
+    "mdbreact": "^4.18.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.1.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.0.1",
+    "redux": "^4.0.3",
+    "redux-thunk": "^2.3.0",
+    "typescript": "~3.4.5"
+  }
+}

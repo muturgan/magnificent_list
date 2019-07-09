@@ -1,2 +1,2 @@
 # magnificent_list
-my test task for the ServiceCloud
+my test task for the Carprice
